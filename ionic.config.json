@@ -1,0 +1,7 @@
+{
+  "name": "dojo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
